@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/89245616/177422654-2da72da3-21b9-47ae-b553-82968ce75d7a.png)
 
-## Project Description
+## Project description
 
 This project focuses on constructing, optimizing, and analyzing a portfolio of chosen stocks in Python. Considering a realistic scenario when one has a certain amount of fund and wants to invest in the stock market either to make profit or to keep its value. He needs to know which stocks to buy and by how much. His friend has chosen some potential stocks (Table 1) and now he only needs to decide how to spend the money.
 
