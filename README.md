@@ -22,7 +22,7 @@ This project focuses on constructing, optimizing, and analyzing a portfolio of c
 
 These stocks are some components of the DAX30 Index, which includes many German blue chip companies trading on the Frankfurt Stock Exchange. This analysis will go through the process of constructing and validating the performance of a stocks portfolio that can serve the needs of the investor. This process will also provide many insights for the investor to understand the investment strategy that he can take to adjust the performance of the portfolio.
 
-## Objectives
+## Executive summary
 
 This project demonstrates my familiarity with many python packages used to perform a wide range of tasks necessary to optimize a portfolio. Besides the core packages used to calculate and manipulate data such as `pandas` and `numpy`, `plotly` is also used extensively to visualize stock data in the analysis and many simulations. Moreover, many utility functions and a class are generated from functions in `pypfopt` to simulate and present the optimization results. In details, the project aims to achieve the following objectives:
 
